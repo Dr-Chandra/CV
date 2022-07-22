@@ -1,11 +1,11 @@
-Johnny Coder
+Chandrakanth V
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+-------------------                                     ----------------------------
+Lab For Video and Image Analysis (LFOVIA)                        ee17resch01001@iith.ac.in / chandrav.iitb@gmail.com
+Indian Institute of Technology Hyderabad                             
+India                                                            ph:
+-------------------                                     ----------------------------
 
 Education
 ---------

@@ -12,9 +12,9 @@ Education
 ---------
 
 2017-2022 
-:   **PhD, Electrical Engineering **; IIT Hyderabad
-    *Thesis title: Autonomous Detection, Tracking and Homing for Beyond Visual Range Targets in Aerial Videos*
-    *9/10*
+:   PhD, Electrical Engineering , IIT Hyderabad
+    Thesis title: Autonomous Detection, Tracking and Homing for Beyond Visual Range Targets in Aerial Videos
+    9/10
 
 2014-2016
 :   **M.Tech, Electrical Engineering**; IIT Bombay

@@ -2,7 +2,7 @@ Chandrakanth V
 ============
 
 -------------------                                     ----------------------------
-Lab For Video and Image Analysis (LFOVIA)                        ee17resch01001@iith.ac.in / chandrav.iitb@gmail.com
+Lab For Video and Image Analysis (LFOVIA)                        ee17resch01001@iith.ac.in
 Indian Institute of Technology Hyderabad                             
 India                                                            ph:
 -------------------                                     ----------------------------

@@ -11,17 +11,15 @@ Ph:
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017-2022 
+:   **PhD, Electrical Engineering **; IIT Hyderabad
+    *Thesis title: Autonomous Detection, Tracking and Homing for Beyond Visual Range Targets in Aerial Videos*
+    *9/10*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2014-2016
+:   **M.Tech, Electrical Engineering**; IIT Bombay
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    **
 
 Experience
 ----------
